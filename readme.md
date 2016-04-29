@@ -4,9 +4,9 @@
 
 * List techniques to grow as a developer
 
-## 4:30 - A Word from Outcomes
+## A Word from Outcomes
 
-## 4:45 - You Are Not Alone (Matt)
+## You Are Not Alone (Matt)
 
 ### Me and my ADD
 
@@ -38,7 +38,7 @@ It works both ways.  You may work with people that don't fit your social norms. 
 
 Sunlight is the best disinfectant.
 
-## 4:55 - Grow Your Network, Sharpen Skills, and Earn Extra Cash (Robin)
+## Grow Your Network, Sharpen Skills, and Earn Extra Cash (Robin)
 
 That is -- teach!
 
@@ -52,7 +52,7 @@ And you're not just a developer. You had a career before you came to GA. You hav
 
 Don't underestimate yourself. The best thing you can do right now -- for yourself, and for others -- is to go out and teach.
 
-## 5:00 - Stay Hungry (Adam)
+## Stay Hungry (Adam)
 
 * Stay hungry... there's always:
 	* more to learn
@@ -90,7 +90,7 @@ Don't underestimate yourself. The best thing you can do right now -- for yoursel
 * Take responsibility for the code that you write. Be professional.
 * Focus on quality.
 
-## 5:10 - Effort (Andy)
+## Effort (Andy)
 
 You all have accomplished so much in such a little time, but what’s next? There’s always a “next".. But before we go into what “next” maybe is for you all, I’d like to share a rather personal story of mine.
 
