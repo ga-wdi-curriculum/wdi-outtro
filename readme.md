@@ -52,7 +52,7 @@ And you're not just a developer. You had a career before you came to GA. You hav
 
 Don't underestimate yourself. The best thing you can do right now -- for yourself, and for others -- is to go out and teach.
 
-## Stay Hungry (Adam)
+## Stay Hungry (Nayana)
 
 * Stay hungry... there's always:
 	* more to learn
