@@ -6,39 +6,44 @@
 
 ## A Word from Outcomes
 
-## You Are Not Alone (Matt)
+## Managing Imposter Syndrome
 
-### Me and my ADD
+- Accepting the stress of not knowing, to whatever extent you can in the moment
+-
 
-I have been diagnosed with ADD.  Like many things, it's a strength and a weakness.  I am easily distracted, but I also have a penchant for intense focus, and can get "lost" in any problem.  I can ignore food and bathroom breaks, completely missing the passage of time for many hours - like a whole work day.  It was worse when I was younger, but it was easier to be functional. My schedule was more flexible and my highs made up for my lows.  When I was "on", I could make up for many hours of distraction in a short period of time.  Once I got a 9-5 job, my highs were cut-off and the environment encouraged my lows.  That's when I joined an ADD research study at NIH to see what I could do to correct for it.  Aw man - my initial observation is a story to share.  It was tough to admit it, but it was even tougher to continue living as only half a person.  I couldn't do the things I wanted to do, let alone needed to.  It's still with me, but at a lessor level.
+> Imposter syndrome sticks with you
 
-I see it most when when I don't take care of myself.  I need my sleep, my food, my rest, my fun.
+It is inevitable and natural that we will experience imposter syndrome. Many experienced developers I've encountered have talked to me or around about their experiences with imposter syndrome. It persists well into a career! This is just one side of the coin
 
-Why am I sharing this?  Why am I embarrassing myself up here?
+It's also what developers say motivates them and provides job satisfaction. Job stress = job satisfation? Not exactly, but the life of a developer entails learning new things all the time. The difficult aspects of this relate to imposter syndrome. However, this has a more positive aspect as well that has more to do with job satisfaction in that it is not only rewarding
+to overcome obstacles, but that the work is mentally stimulating.
 
-### This field attracts intelligent and introverted people who may be more prone to social anxiety, depression and ADD.
+> Accepting or managing developer stress
 
-Let me say that again,
+I think there is a certain, mostly irreducible base level of the stress related to "not knowing", but that accepting it somehow makes it more manageable. This sounds almost vacuous, but I think it entails a certain process that actually isn't all that mysterious. It goes something like this:
 
-This field attracts intelligent and introverted people who may be more prone to social anxiety, depression and ADD.
+> Managing or accepting the stress of not having every answer
 
-It's a thing.
+It is inevitable that we will have an "oh #@!$, I don't actually don't know" reaction in many situations. Every subsequent reaction to that feeling/thought relates to how we manage or react to that initial moment of panic. It may be that we are managing this feeling more than we are accepting it, ultimately, but the way we frame this moment of panic has important consequences for our state of mind.
 
-I'm sharing because others have shared, giving me the courage to share.  I want you to know that you are not alone.  Whatever you are battling does not have to get between you and success.  It is, almost certainly, a strength and a weakness.  I also have a cautionary tale.  We fix things for a living.  We have lost people, great people from our community because they attempted to fix themselves and were not successful.  Please, if you are in this boat, or even think you might be, discuss it with a professional.
 
-On a slightly lighter note.
+We will have access to informational resources that will help us find answers to our questions
 
-### We are better, if everyone is here
+### Learning on the job
 
-You are entering a world dominated by, well, male geeks.  In some cases, we've created our own world, with our own social norms.  And we were happy here.
+Many of us will take jobs working with technologies that have not been covered over the course of the class.
 
-But... it excluded people.  People that were different felt unwelcome.  We don't want that.  I hope you will see that your development community is actively working on it.  Conferences and companies are sharing a Code of Conduct, so that, at the very least, people aren't acting out of ignorance.  It's helped a lot.
+### Another Day (really, Another 3 seconds), Another Error
 
-It works both ways.  You may work with people that don't fit your social norms.  Please be aware that they may simple not know or may have a condition.  Find out.  Talk to them in private.  Support their growth.  Make sure your company is talking about these things.
+Errors do not make us bad programmers, on the contrary they actually guide development. It takes some time to understand the errors that we get. Sometimes this is easier than others-- think of Rails and Angular.
 
-Sunlight is the best disinfectant.
+We get the clearest guidance from errors when ***we write a few lines of code and then test them***. By thinking critically or focusing on what we expect our code to be doing, our code-related thought processes mature. Verifying or modifying our expectations about our code truly solidifies this maturation process.
 
-## Grow Your Network, Sharpen Skills, and Earn Extra Cash (Robin)
+Maximizing the certainty you take with each step is another way to manage the stress of not knowing.
+
+### Teach what you do know, then what do you don't know quite as well
+
+Grow Your Network, Sharpen Skills, and Earn Extra Cash (Robin)
 
 That is -- teach!
 
@@ -51,6 +56,12 @@ I think teaching is the best thing you can do for your career at this point, and
 And you're not just a developer. You had a career before you came to GA. You have much more knowledge and experience than just WDI. That gives you a perspective that's extraordinary both among teachers, and among the other folks interviewing for development jobs. With each cohort I have the opportunity to learn about the unique careers and experiences of 60 different people!
 
 Don't underestimate yourself. The best thing you can do right now -- for yourself, and for others -- is to go out and teach.
+
+### Staying Hungry
+
+Perhaps paradoxically, the best way to manage imposter syndrome is to own it!
+In some sense, staying hungry is a strategy for taking control of your relationship with what you don't know. It's a growth mindset that can turn something that seems to be a barrier to entry into a frontier--in fact, this is the hacker mentality or growth mindset in a nutshell. If you have doubts about your ability to turn a wall into a step, that is normal. However, to challenge your own sense of having definite limits think of how far that you have come in the last 12 weeks (or even last 2 weeks).
+
 
 ## Stay Hungry (Nayana)
 
